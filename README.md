@@ -1,2 +1,13 @@
-# Car-Counter
-A simple car counter app built with HTML, CSS AND Javascript. Users can increment and save the number of cars counted.
+# Car Counter App
+
+A simple car counter application built with HTML,CSS, and Javascript.
+
+## Features
+- Increment the car count
+- Save previous counts
+- clean and responsive interface
+
+## Technologies Used
+- HTML
+- CSS
+- Javascript
